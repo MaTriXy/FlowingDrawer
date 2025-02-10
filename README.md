@@ -3,7 +3,7 @@
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FlowingDrawer-green.svg?style=flat)](https://android-arsenal.com/details/1/2658)
 [![travis-ic](https://travis-ci.org/mxn21/FlowingDrawer.svg?branch=master)](https://travis-ci.org/mxn21/FlowingDrawer)
 
-![Showcase](http://baobaoloveyou.com/flowingdrawer.gif)
+![Showcase](/screen.gif)
 
 swipe right to display drawer with flowing effects.
 
@@ -20,8 +20,8 @@ Gradle:
     }
 
     dependencies {
-        compile 'com.mxn.soul:flowingdrawer-core:2.0.0'
-        compile 'com.nineoldandroids:library:2.4.0'
+        implementation 'com.mxn.soul:flowingdrawer-core:2.1.0'
+        implementation 'com.nineoldandroids:library:2.4.0'
     }
 ```
 
